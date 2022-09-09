@@ -1,0 +1,4 @@
+PS0 Hello World Assignment
+
+The purpose of the first assignment was to get us used to using the SFML library to display different objects and take in key strokes to make an object move on the screen. In my project, I implemented 3 different functionalities. The first functionality that I had added was that the esc button would close the program. The second functionality that I had added was that the space button would move the sprite back to the middle of the window. The final thing that I added to the project was that the arrow keys would move the object in their respective direction, and each direction had a different color based on which arrow key was pressed.
+In this project I had learned how to use the SFML library to create a window, sprites, load images to sprites, take in key strokes, and finally add shapes and change the color of shapes.
